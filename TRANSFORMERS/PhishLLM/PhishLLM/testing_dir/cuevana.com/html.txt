@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cuevana 3 - Ver Películas, ver series online Gratis HD</title>
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://wv5n.cuevana.biz/" />
+  <meta name="description"
+    content="Ver y descargar todas las películas y series gratis en Cuevana 3 ⚡ Tenemos los últimos estrenos en tendencia por día y semana actualizados para ti. ⭐">
+  <meta property="og:title" content="Cuevana 3 - Ver Películas, ver series online Gratis HD">
+  <meta property="og:description"
+    content="Ver y descargar todas las películas y series gratis en Cuevana 3 ⚡ Tenemos los últimos estrenos en tendencia por día y semana actualizados para ti. ⭐">
+  <script
+    type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://cuevana.biz","potentialAction":[{"@type":"SearchAction","target":"https://cuevana.biz/search?q={search_term_string}","query-input":"required name=search_term_string"}]}</script>
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cuevana.biz/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://cuevana.biz/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://cuevana.biz/favicon-16x16.png">
+  <link rel="manifest" href="https://wv5n.cuevana.biz/site.webmanifest">
+  
+  <link rel="preload" href="./index_files/08d2fb47fa386cc4.css" as="style">
+  <link rel="stylesheet" href="./index_files/08d2fb47fa386cc4.css" data-n-g="">
+  <link rel="preload" href="./index_files/34238b1fe98b2080.css" as="style">
+  <link rel="stylesheet" href="./index_files/34238b1fe98b2080.css" data-n-p="">
+</head>
+
+<body>
+  <div id="__next">
+    <script type="application/ld+json">{
+                    "@context": "https://schema.org/", 
+                    "@type": "BreadcrumbList", 
+                    "itemListElement": [{
+                      "@type": "ListItem", 
+                      "position": 1, 
+                      "name": "cuevana",
+                      "item": "https://wv5n.cuevana.biz/"  
+                    },{
+                      "@type": "ListItem", 
+                      "position": 2, 
+                      "name": "🚨 WEB OFICIAL 🚨",
+                      "item": "https://wv5n.cuevana.biz/#content"  
+                    }]
+                  }</script>
+    <script type="application/ld+json">{
+                    "@context": "https://schema.org",
+                    "@type": "FAQPage",
+                    "mainEntity": [{
+                      "@type": "Question",
+                      "name": "¿Que es cuevana?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Cuevana es un sitio web de streaming que te permitirá ver películas y series online gratis desde cualquier dispositivo en la mejor calidad siempre que se encuentre disponible en nuestro portal. Cuevana no aloja material audiovisual en sus servidores, utilizamos enlaces de terceros para compartirlo en portal."
+                      }
+                    },{
+                      "@type": "Question",
+                      "name": "Cuevana 3 - Ver Películas, ver series online Gratis HD",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Cuevana 3 es una versión alternativa, todas las películas de estrenos, series, documentales premiados entre otros títulos destacados agrupados en un mismo portal."
+                      }
+                    },{
+                      "@type": "Question",
+                      "name": "¿Tengo que pagar?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "No, es totalmente gratuito, y aunque no alojamos ningún material, ya que no somos los propietarios, compartimos enlaces externos de otros servidores para que puedas disfrutar."
+                      }
+                    },{
+                      "@type": "Question",
+                      "name": "¿Cómo se llama cuevana ahora?",
+                      "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Cuevana ahora se llama: cuevana.biz, es importante que recuerdes este nombre para acceder a través al sitio web correctamente."
+                      }
+                    }]
+                  }</script>
+    <script type="application/ld+json">{
+                    "@context": "https://schema.org",
+                    "@type": "Organization",
+                    "name": "Cuevana",
+                    "url": "https://wv5n.cuevana.biz",
+                    "logo": "https://cuevana.biz/img/cuevana3.png",
+                    "sameAs": [
+                      "https://www.facebook.com/Cuevana3-102611315725359",
+                      "https://twitter.com/Cuevana3Real",
+                      "https://es.wikipedia.org/wiki/Cuevana",
+                      "https://wv5n.cuevana.biz"
+                    ]
+                  }</script>
+    <div class="body slider">
+      <div id="aa-wp">
+        <header class="Header">
+          <div class="cont">
+            <div class="top dfx alg-cr jst-sb"><a class="logo" href="https://cuevana.biz/inicio"><img alt="Cuevana"
+                  src="./index_files/cuevana3.png" width="240" height="60" decoding="async" data-nimg="future"
+                  style="color:transparent"></a><span class="MenuBtn aa-tgl"
+                data-tgl="aa-wp"><i></i><i></i><i></i></span> <span class="MenuBtnClose aa-tgl" data-tgl="aa-wp"></span>
+              <div class="Rght BgA dfxc alg-cr fg1">
+                <div class="Search">
+                  <form method="get" action="https://cuevana.biz/search" id="searchform"><span
+                      class="Form-Icon"><input name="q" type="search" placeholder="Buscador..." autocomplete="off"
+                        required=""><button title="Buscar" id="searchsubmit" type="submit"><svg id="ic-search"
+                          class="abf ic cc-c" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                          <path
+                            d="M500.3 443.7l-119.7-119.7c27.22-40.41 40.65-90.9 33.46-144.7C401.8 87.79 326.8 13.32 235.2 1.723C99.01-15.51-15.51 99.01 1.724 235.2c11.6 91.64 86.08 166.7 177.6 178.9c53.8 7.189 104.3-6.236 144.7-33.46l119.7 119.7c15.62 15.62 40.95 15.62 56.57 0C515.9 484.7 515.9 459.3 500.3 443.7zM79.1 208c0-70.58 57.42-128 128-128s128 57.42 128 128c0 70.58-57.42 128-128 128S79.1 278.6 79.1 208z">
+                          </path>
+                        </svg> </button></span></form>
+                </div>
+                <nav class="Menu fg1">
+                  <ul>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom"><a
+                        href="https://cuevana.biz/inicio">Inicio</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a
+                        href="https://cuevana.biz/peliculas">Películas</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/peliculas">Últimas publicadas</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/peliculas/estrenos">Estrenos</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/peliculas/tendencias/semana">Tendencias semana</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/peliculas/tendencias/dia">Tendencias día</a></li>
+                      </ul>
+                    </li>
+                    <li id="menu-item-1953"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a
+                        href="https://cuevana.biz/#">Generos</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/accion">Acción</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/aventura">Aventura</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/animacion">Animación</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/ciencia-ficcion">Ciencia ficción</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/crimen">Crimen</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/drama">Drama</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/familia">Familia</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/fantasia">Fantasía</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/misterio">Misterio</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/romance">Romance</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/suspense">Suspense</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/genero/terror">Terror</a></li>
+                      </ul>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a
+                        href="https://cuevana.biz/series">Series</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/series">Series</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/series/estrenos">Estrenos</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/episodios">Episodios</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/series/tendencias/dia">Tendencias dia</a></li>
+                        <li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a
+                            href="https://cuevana.biz/series/tendencias/semana">Tendencias semana</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="bd">
+          <div class="cont">
+            <div class="Homealt2_cnt__2Bd2o">
+              <figure class="Homealt2_figure__GfrVw"><img alt="Cuevana"
+                  src="./index_files/cuevana3.png" width="360" height="90" decoding="async" data-nimg="future"
+                  style="color:transparent"></figure>
+            </div>
+            <div id="content">
+              <form method="get" id="buscadorGrande" action="https://cuevana.biz/search" class="Homealt2_form__2uTc2"><input
+                  placeholder="Buscar películas y series..." class="Homealt2_isnp__cBxII" name="q" type="search"
+                  autocomplete="off" required=""><span onclick="if (!window.__cfRLUnblockHandlers) return false; document.getElementById('buscadorGrande').submit();" data-cf-modified-3ddc9cba4ccae336d73d2086-=""><svg alt="Logo buscar" title="Buscar" class="Homealt2_svg__eJgLQ"
+                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                    <path
+                      d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z">
+                    </path>
+                  </svg></span></form>
+            </div>
+            <div class="Homealt2_abn__HV9EQ"><a href="https://cuevana.biz/inicio">Entrar en Cuevana</a></div>
+            <div class="Homealt2_hmt__jSPmK">
+              <h1>Todas las películas de cuevana 3 Online Gratis</h1>
+              <p><strong>Cuevana 3</strong> es la plataforma de streaming gratuito por excelencia. Dentro de sus
+                pantallas, puedes ver un sinfín de <em>películas</em> y/o <em>series</em> interesantes, atrapantes y que
+                seguramente te sacudirán el aburrimiento en pocos minutos.</p>
+              <p>La página no solo puede ser tu plan ideal para pasar el fin de semana o las noches junto a tus amigos,
+                familiares o pareja. Sin que también es tu aliado ideal para esos momentos en los que te encuentres solo
+                y no sepas que más hacer en tus tiempos libres.</p>
+              <h2>Películas y series online: Navega sin dificultad</h2>
+              <p>Aquí <em>en Cuevana3 se ofrece un diseño óptimo y amigable con el usuario</em>. En su interfaz, todos
+                los visitantes pueden ubicar el material que desean ver fácilmente y eso se debe a su diseño en
+                cuadriculas, que organiza todo el <em>contenido por categorías</em>, nombres, fechas de estreno, entre
+                otros.</p>
+              <p>Hace poco tiempo la plataforma tuvo que renovar su diseño para poder entregarle a sus usuarios toda una
+                experiencia 20/20 haciendo así que su sistema de navegación sea todavía más sencilla de utilizar. En ese
+                sentido, aun tus abuelos de 50 años en adelante pueden aprender a utilizar la plataforma sin ningún tipo
+                de inconvenientes.</p><span>¡Mira todo lo que quieras sin limite de tiempo!</span>
+              <p><strong>Este sitio es completamente gratuito</strong> aunque no cuenta con los derechos de estos
+                titulos, tampoco aloja material en sus servidores, solo compartimos información y enlaces que se alojan
+                en otros servidores externos a nosotros.</p>
+              <p>A parte, su publicidad no es nada invasiva ya que solo salta al inicio de una reproducción o cuando
+                deseas abrir una nueva pestaña. Igualmente dicha publicidad puede ser obviada fácilmente, simplemente
+                cerrando la ventana emergente en el icono de la “X” o con ayuda de alguna extensión para bloquear
+                anuncios.</p><span>Contenido nuevo cada día, actualizamos constantemente</span>
+              <p>Muy pocas plataformas ofrecen <strong>contenido de calidad HD4K</strong> aquí en lo hacemos posible</p>
+              <p>Mira todos los estrenos exclusivos que por meses estuviste esperando sin pagar nada gracias al
+                <strong>equipo de cuevana.biz</strong>, quienes trabajan sin descansar las 24 horas del día para poder
+                subir todo el material de estreno antes de que aparezca en otro lado. ¡Deja de perder el tiempo con
+                plataformas que te prometen estar actualizadas siempre, pero solo te dejan esperando por alguna
+                producción!</p><span>Como Cuevana3 no existen 2</span>
+              <p>Sabemos que la competencia que tiene este sitio es bastante grande, muchos “imitadores” solo buscan
+                hacer dinero sin ofrecerle al usuario todo lo que necesita de una <em>web de streaming</em>. Algunas
+                plataformas aseguran ser las NÚMERO#1 dentro del mercado de <strong>series y películas
+                  gratuitas</strong>, pero solo entregan enlaces rotos, virus con sus anuncios y un sinfín de
+                inconvenientes más que solo causan dolores de cabeza.</p>
+              <p>Por todas las razones anteriores, deberías única y exclusivamente mirar tus series y películas dentro
+                de nuestra plataforma, que no solo no te cobra por estreno exclusivo, sino que también te brinda la
+                mejor atención como usuario, comunidad y amigo. ¡Decídete ya y solo <em>busca tus estrenos en
+                  cuevana.biz</em>!</p>
+            </div>
+          </div>
+          <div class="cont w-med Homealt2_mtfaq__A6ps5">
+            <h3 class="Faq_title__BQJPd">Preguntas frecuentes</h3>
+            <div class="Faq_container__cI0GJ">
+              <div class="Faq_box__yeGTB hiddenfaq"><span class="Faq_question__LpKbN">¿Que es cuevana?<img alt="mostrar"
+                    layout="intrinsic"
+                    src="./index_files/plus.32985734.svg" width="24" height="24" decoding="async" data-nimg="future"
+                    style="color:transparent"></span>
+                <div class="Faq_answer__JeyK6">Cuevana es un sitio web de streaming que te permitirá ver
+                  películas y series online gratis desde cualquier dispositivo en la mejor calidad siempre que se
+                  encuentre disponible en nuestro portal. No alojamos ningun material audiovisual en nuestros
+                  servidores, utilizamos enlaces de terceros para compartirlo en portal.</div>
+              </div>
+              <div class="Faq_box__yeGTB hiddenfaq"><span class="Faq_question__LpKbN">¿Cuevana 3 está disponible?<img
+                    alt="mostrar" layout="intrinsic"
+                    src="./index_files/plus.32985734.svg" width="24" height="24" decoding="async" data-nimg="future"
+                    style="color:transparent"></span>
+                <div class="Faq_answer__JeyK6">Cuevana 3 es una versión alternativa, todas las películas de
+                  estrenos, series, documentales premiados entre otros títulos destacados agrupados en un mismo portal.
+                </div>
+              </div>
+              <div class="Faq_box__yeGTB hiddenfaq"><span class="Faq_question__LpKbN">¿Tengo que pagar?<img alt="mostrar"
+                    layout="intrinsic"
+                    src="./index_files/plus.32985734.svg" width="24" height="24" decoding="async" data-nimg="future"
+                    style="color:transparent"></span>
+                <div class="Faq_answer__JeyK6">No, es totalmente gratuito, y aunque no alojamos ningún material,
+                  ya que no somos los propietarios, compartimos enlaces externos de otros servidores para que puedas
+                  disfrutar.</div>
+              </div>
+              <div class="Faq_box__yeGTB hiddenfaq"><span class="Faq_question__LpKbN">¿Cómo se llama cuevana ahora?<img
+                    alt="mostrar" layout="intrinsic"
+                    src="./index_files/plus.32985734.svg" width="24" height="24" decoding="async" data-nimg="future"
+                    style="color:transparent"></span>
+                <div class="Faq_answer__JeyK6">Cuevana ahora se llama: cuevana.biz, es importante que recuerdes
+                  este nombre para acceder a través al sitio web correctamente.</div>
+              </div>
+              <div class="Faq_box__yeGTB hiddenfaq"><span class="Faq_question__LpKbN">Descarga y Disfruta de tus películas
+                  favoritas<img alt="mostrar" layout="intrinsic"
+                    src="./index_files/plus.32985734.svg" width="24" height="24" decoding="async" data-nimg="future"
+                    style="color:transparent"></span>
+                <div class="Faq_answer__JeyK6">Tienes la posibilidad de ver o descargar tus películas y series
+                  favoritas en varios idiomas como: Latino, castellano e inglés subtitulado al español.</div>
+              </div>
+              <div class="Faq_box__yeGTB hiddenfaq"><span class="Faq_question__LpKbN">Cuando quieras, donde quieras<img
+                    alt="mostrar" layout="intrinsic"
+                    src="./index_files/plus.32985734.svg" width="24" height="24" decoding="async" data-nimg="future"
+                    style="color:transparent"></span>
+                <div class="Faq_answer__JeyK6">Si tienes un dispositivo móvil, pc, tablet o tv, puedes disfrutar
+                  de todo el contenido sin problemas.</div>
+              </div>
+            </div>
+            <div class="Faq_containerCenter__cSXVd"><a target="_blank" href="https://es.wikipedia.org/wiki/Cuevana">Más
+                sobre nosotros</a></div>
+          </div>
+        </div>
+        <footer class="ft ok">
+          <div class="cont dfxb alg-cr"><img alt="Cuevana"
+              src="./index_files/cuevana3.png" width="240" height="60" decoding="async" data-nimg="future"
+              class="logo-ft" loading="lazy" style="color: transparent;">
+            <nav class="dfxb jst-sb fg1 alg-cr">
+              <ul class="mnft dfx jst-cr">
+                <li><a title="Terminos y Condiciones" href="https://cuevana.biz/terminos-y-condiciones">Términos y
+                    Condiciones</a></li>
+              </ul>
+              <ul class="smft dfx jst-cr">
+                <li><a title="Link a Facebook" target="_blank" class="icof"
+                    href="https://www.facebook.com/Cuevana3-102611315725359"><svg alt="Logo Facebook"
+                      xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                      <path
+                        d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
+                      </path>
+                    </svg></a></li>
+                <li><a title="Link a Twitter" target="_blank" class="icof" href="https://twitter.com/Cuevana3Real"><svg
+                      alt="Logo Twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                      <path
+                        d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z">
+                      </path>
+                    </svg></a></li>
+              </ul>
+            </nav>
+          </div>
+          <p class="copy tac">© 2007 Cuevana 3 Peliculas Online, Todos los derechos reservados.</p>
+        </footer>
+      </div>
+    </div>
+  </div>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="3ddc9cba4ccae336d73d2086-|49" defer></script></body>
+<script type="3ddc9cba4ccae336d73d2086-text/javascript">
+  var acc = document.getElementsByClassName("Faq_box__yeGTB");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      /* Toggle between adding and removing the "active" class,
+      to highlight the button that controls the panel */
+      this.classList.toggle("hiddenfaq");
+    });
+  }
+</script>
+<style>
+  .Faq_box__yeGTB.hiddenfaq > div {
+    display: none;
+  }
+</style>
+<style>
+    .mdl-bd p {
+        color: #555555;
+        font-size: 1em;
+    }
+</style>
+
+<div class="modal anm-e on" id="mdl-ads">
+    <div class="mdl-ovr aa-mdl" data-mdl="mdl-ads"></div>
+    <div class="mdl-cn">
+        <div class="mdl-hd">
+            <div class="dfc Title ra-exclamation-circle">⚠️ Queremos enviar un extrañamiento a MPA:</div><button
+                class="Button mdl-close aa-mdl" id="mdl-close-modal" aria-label="Cerrar modal"><svg
+                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                    <path
+                        d="M310.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L160 210.7 54.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L114.7 256 9.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 301.3 265.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L205.3 256 310.6 150.6z">
+                    </path>
+                </svg></button>
+        </div>
+        <div class="mdl-bd">
+            <p>Nos hemos puesto en contacto con "ACE" que se supone es el brazo derecho de MPA en la pitatería, sin embargo nos sorprende en gran medida que el supuesto sitio más grande de piratería le haya escrito, y hayamos recibido respuesta de un robot y hace 1 semana que no nos responden, esto da a entender muchas otras cosas.</p>
+
+<p>En el ultimo mensaje, pedimos que de manera atenta y de favor, se pase la información al encargado, pero no nos han vuelto a responder.</p>
+
+<p>Queremos pedir a MPA que le pida a los encargados de ACE, que revisen los mensajes, ya que hace 1 semana esperamos respuesta.  Estamos manejando todo vía email para que quede registro de nuestra buena fé, no sé si la intención es dejar que sigamos adelante con los sitios, pero hace 1 semana ya debimos haber entregado uno de los dominios que solicitan y en las proximas semanas por razones de cumplimiendo se entregaría a cuevana.biz, sin embargo no nos responden.</p>
+
+<p>Cabe destacar que nosotros podemos simplemente vender el sitio o cerrarlo con un clic y liberar el dominio, pero queremos cumplir y dar la razón por dicho esfuerzo de MPA, Tenemos entendido que una vez se entrega un dominio, es redireccionado a la página de ACE, donde instan a los usuarios a consumir directamente a los proveedores autorizados de contenido.</p>
+
+<p>Pedimos a paginas como TorrentFreak y otros medios, que se hagan eco de esto, a ver si nos prestan un poco más de atención, parecería que no revisan realmente nuestro sitio web, porque este mensaje ya casi tiene 2 semanas.</p>
+
+<p>Recordamos y volvemos a señalar, que cuevana.biz es un sitio que crece apartir del cierre de uno de los clones de cuevana, la gente simplemente nos prefirió y esto hace que el sitio crezca.  Una vez este sitio web sea eliminado, le tocará a otros usuarios o quien nos siga en la posición numero 2 o 3, este pasará a ser posición 1 en los resultados de búsqueda. (Asi crecimos nosotros y ni pensamos en obtener cierta cantidad de visitas)</p>
+        </div>
+    </div>
+    <div aria-hidden="true" class="mdl-ovr aa-mdl" data-mdl="mdl-ads"></div>
+</div>
+<script data-cfasync="false" type="text/javascript" src="/index_files/edgeSystemRun.js"></script>
+<script type="3ddc9cba4ccae336d73d2086-text/javascript">
+
+    const modal = document.getElementById('mdl-ads');
+    const closeButton = document.getElementById('mdl-close-modal');
+    const modalContent = document.querySelector('.mdl-cn');
+
+
+    function closeModal() {
+        modal.classList.remove('on');
+    }
+
+    closeButton.addEventListener('click', function (event) {
+        event.preventDefault();
+        closeModal();
+    });
+
+    modal.addEventListener('click', function (event) {
+        if (!modalContent.contains(event.target)) {
+            closeModal();
+        }
+    });
+
+</script>
+</html>
